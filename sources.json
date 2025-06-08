@@ -1,0 +1,9 @@
+{
+  "rss": [
+    "http://feeds.nydailynews.com/nydnrss/news",
+    "https://www.dailymail.co.uk/articles.rss",
+    "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "https://www.reddit.com/r/news/.rss",
+    "https://feeds.feedburner.com/DrudgeReportFeed"
+  ]
+}
