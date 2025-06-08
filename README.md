@@ -50,4 +50,4 @@ Summaries are stored in `data/prep_YYYY-MM-DD.json`. Each entry includes:
 - Media producers
 
 ---
-Made with ❤️ by [Your Name or Org]
+Made with ❤️ by TNJ Tools
